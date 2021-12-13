@@ -7,3 +7,7 @@ A rust native implementation of the [M17 protocol](https://m17project.org/).
 ```bash
 $ cargo test
 ```
+
+## License
+
+[GPLv2](LICENSE)
